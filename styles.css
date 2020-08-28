@@ -1,3 +1,21 @@
 body {
-    background-color: rgb(64, 33, 149)
+    background-color: rgb(64, 33, 149);
+    margin: 0;
+}
+
+header {
+    background-image: url("https://c1.wallpaperflare.com/preview/476/1004/62/recife-ground-zero-pernambuco-marco.jpg");
+    height: 40%;
+    background-position: start;
+    background-repeat: no-repeat;
+    background-size: contain;
+    position: relative;
+}
+
+main {
+    font-family: 'Roboto';
+    font-size: 14;
+    line-height: 1.6;
+    margin: 16;
+    color: white;
 }
